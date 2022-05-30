@@ -1,0 +1,10 @@
+A Crowed detector(A geofencer or locator):
+
+This is the project I most recently worked on. It is based on flutter and dart. It's a location tracker in which I will provide a constant coordinates i.e latitude and longitude of a particular place example a 
+hotel or restaurant after that it will access the location of the individual around that coordinate who is using my app around x meter(developer will specify by his/her choice) of radius and then count the no. of users using my app
+around that coordinate and print it on my screen.
+
+Motive of making this project is that during covid, their were guidelines to have limited people in the restaurant but illegally they were having more customers than specified limit so
+it took me to build this small prototype.
+
+Link:- https://github.com/pranav4-4/My_Updated_geolocator-Flutter
